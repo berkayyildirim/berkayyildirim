@@ -54,6 +54,7 @@ One engine, multiple consumers, one public artifact. Each producer defines its o
 
 ## Industry
 
+- 🏦 **[Quantios](https://www.quantios.com/)** — LLM evaluation framework, WAF security, LangSmith observability (Fintech)
 - ☁️ **[MindWalk](https://www.biostrand.be/)** — Lead frontend, Auth@Edge, AI agents (Biotech)
 - 📡 **[Turkcell](https://www.turkcell.com.tr/)** — 5M+ user messaging platform (Telecom)
 - 🔬 **[Huawei](https://www.huawei.com/)** — AI Database Query Platform, Sparkling Star Award (5G and R&D)
