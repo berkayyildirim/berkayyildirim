@@ -62,7 +62,7 @@ One engine, multiple consumers, one public artifact. Each producer defines its o
 ## Recognition
 
 - 🎙️ **[Alan Turing Institute](https://youtu.be/H0jlpiNTdo8?si=tZRLqk5IW5g-bZos)** — Invited speaker at the International Conference on Trustworthy Digital Infrastructure 2025 (Royal Institution). Presented _"Architecting for Autonomy."_
-- 📄 **IET** — Paper in publishing process (January 2026). Member of the IET (MIET). Selected as a foundational Career Mentor.
+- 📄 **[IET](https://doi.org/10.1049/icp.2026.1123)** — Peer-reviewed paper published in IET Conference Proceedings (DOI: 10.1049/icp.2026.1123). Member of the IET (MIET). Selected as a foundational Career Mentor.
 - 📜 **UK Government (DSIT)** — Submitted expert feedback on the Code of Practice for Enterprise Connected Device Security.
 - 🏅 **AWS Certified Solutions Architect — Associate**
 
