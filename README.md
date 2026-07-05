@@ -60,10 +60,17 @@ One engine, multiple consumers, one public artifact. Each producer defines its o
 - 🔬 **[Huawei](https://www.huawei.com/)** — AI Database Query Platform, Sparkling Star Award (5G and R&D)
 - 🏗️ **[Ronesans](https://ronesans.com/)** — Enterprise project management platform (Construction)
 
+## Publications
+
+- 📄 **[Architecting for Autonomy: A Federated and Explainable AI Blueprint for UK Public Services](https://doi.org/10.1049/icp.2026.1123)**
+  _IET Conference Proceedings, Vol. 2025, Issue 50, pp. 13–31_
+  Presented at the International Conference on Trustworthy Digital Infrastructure 2025 (Alan Turing Institute / Royal Institution of Great Britain)
+  → [IET Digital Library](https://digital-library.theiet.org/doi/10.1049/icp.2026.1123) · [IEEE Xplore](https://ieeexplore.ieee.org/document/11514733) · [DOI: 10.1049/icp.2026.1123](https://doi.org/10.1049/icp.2026.1123)
+
 ## Recognition
 
-- 🎙️ **[Alan Turing Institute](https://youtu.be/H0jlpiNTdo8?si=tZRLqk5IW5g-bZos)** — Invited speaker at the International Conference on Trustworthy Digital Infrastructure 2025 (Royal Institution). Presented _"Architecting for Autonomy."_
-- 📄 **[IET](https://doi.org/10.1049/icp.2026.1123)** — Peer-reviewed paper published in IET Conference Proceedings (DOI: 10.1049/icp.2026.1123). Member of the IET (MIET). Selected as a foundational Career Mentor.
+- 🎙️ **[Alan Turing Institute](https://youtu.be/H0jlpiNTdo8?si=tZRLqk5IW5g-bZos)** — Invited speaker at the International Conference on Trustworthy Digital Infrastructure 2025 (Royal Institution of Great Britain).
+- 🏛️ **[IET](https://theiet.org)** — Member (MIET). Selected as a foundational Career Mentor.
 - 📜 **UK Government (DSIT)** — Submitted expert feedback on the Code of Practice for Enterprise Connected Device Security.
 - 🏅 **AWS Certified Solutions Architect — Associate**
 
